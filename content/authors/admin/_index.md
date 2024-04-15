@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD at at the University of Amsterdam 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: the University of Amsterdam 
+    url: https://irlab.science.uva.nl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -31,20 +31,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Information Retrieval & 
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+      institution: the University of Amsterdam 
+      year: 2023-Now
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2009
+      year: 2020-2023
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2016-2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
