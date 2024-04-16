@@ -113,5 +113,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Yongkang Li is a PhD student in IR LAB, the University of Amsterdam.
+I am currently a PhD student in IR LAB, the University of Amsterdam, work with Porf. Evangelos Kanoulas. 
+
+Before that, I got my master degree at Southern University of Science and Technology, Department of Computer Science and Engineering, SUSTech-UTokyo Joint Research Center on Super Smart City Lab, where I am supervised by Prof. Xuan Song in SUSTech and Prof. Zipei Fan at the University of Tokyo. 
+
+What's more, I received a B.E. degree in the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications in 2020.
 {style="text-align: justify;"}
