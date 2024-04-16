@@ -65,7 +65,7 @@ sections:
         - title: Machine Learning Algorithm Engineer
           company: TEMU
           company_url: 'www.temu.com'
-          company_logo: temu_logo
+          company_logo: temu
           location: Shanghai
           date_start: '2023-07-11'
           date_end: '2023-09-14'
