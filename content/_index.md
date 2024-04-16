@@ -65,23 +65,22 @@ sections:
         - title: Machine Learning Algorithm Engineer
           company: TEMU
           company_url: 'www.temu.com'
-          company_logo: org-gc
+          company_logo: Temu_logo
           location: Shanghai
           date_start: '2023-07-11'
           date_end: '2023-09-14'
           description: |2-
-              Responsibilities include:
-
+              Contract, Responsibilities include:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Machine Learning Internship
+          company: Pinduoduo
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          company_logo: pingduoduo
+          location: Shanghai
+          date_start: '2022-07-01'
+          date_end: '2022-09-23'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
