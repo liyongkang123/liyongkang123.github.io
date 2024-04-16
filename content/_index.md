@@ -81,7 +81,7 @@ sections:
           location: Shanghai
           date_start: '2022-07-01'
           date_end: '2022-09-23'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Internship
     design:
       columns: '2'
 #  - block: accomplishments
