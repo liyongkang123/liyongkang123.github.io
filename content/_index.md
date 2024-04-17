@@ -50,6 +50,14 @@ sections:
 #      username: admin
 #    design:
 #      columns: '1'
+  
+  - block: news
+    id: news
+    content:
+      title: News
+      text: 'I got a paper in ECIR2024'
+
+      
   - block: experience
     content:
       title: Experience
@@ -64,7 +72,7 @@ sections:
       items:
         - title: Machine Learning Algorithm Engineer
           company: TEMU
-          company_url: 'www.temu.com'
+          company_url: ''
           company_logo: temu
           location: Shanghai
           date_start: '2023-07-11'

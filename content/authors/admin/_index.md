@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -37,7 +37,7 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: the University of Amsterdam 
+      institution: The University of Amsterdam
       year: 2023~Now
     - course: MEng in Electronic Science and Technology
       institution:  Southern University of Science and Technology
@@ -93,7 +93,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: y.li7@uva.nl #'/#contact'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
