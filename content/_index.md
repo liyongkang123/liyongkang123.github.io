@@ -233,11 +233,13 @@ sections:
     design:
       columns: '2'
       view: compact
+      
   - block: tag_cloud
     content:
       title: Popular Topics
     design:
       columns: '2'
+      
   - block: contact
     id: contact
     content:
@@ -260,9 +262,9 @@ sections:
       office_hours:
         - 'Monday - Friday 11:00 to 20:00'
 #      # Choose a map provider in `params.yaml` to show a map from these coordinates
-#      coordinates:
-#        latitude: '37.4275'
-#        longitude: '-122.1697'  
+      coordinates:
+        latitude: '52.35486895861428'
+        longitude: '4.954391943204361'     
 #      contact_links:
 #        - icon: twitter
 #          icon_pack: fab
@@ -286,6 +288,6 @@ sections:
 #        netlify:
 #          # Enable CAPTCHA challenge to reduce spam?
 #          captcha: false
-#    design:
-#      columns: '2'
+    design:
+      columns: '2'
 ---
