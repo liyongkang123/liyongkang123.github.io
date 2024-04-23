@@ -51,11 +51,12 @@ sections:
 #    design:
 #      columns: '1'
   
-  - block: news
-    id: news
-    content:
-      title: News
-      text: 'I got a paper in ECIR2024'
+
+#  - block: news
+#    id: news
+#    content:
+#      title: News
+#      text: 'I got a paper in ECIR2024'
 
       
   - block: experience
