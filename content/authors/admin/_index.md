@@ -3,7 +3,7 @@
 title: Yongkang Li
 
 # Name pronunciation (optional)
-#name_pronunciation: Chien Shiung Wu
+name_pronunciation: 李永康
 
 # Full name (for SEO)
 first_name: Yongkang 
@@ -11,7 +11,7 @@ last_name: Li
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ✊
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,11 +21,11 @@ role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: the University of Amsterdam 
+  - name: The University of Amsterdam 
     url: https://irlab.science.uva.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a PhD student in IR LAB, the University of Amsterdam, work with Porf. Evangelos Kanoulas. Before that, I got my master degree at Southern University of Science and Technology, Department of Computer Science and Engineering, SUSTech-UTokyo Joint Research Center on Super Smart City Lab, where I am supervised by Prof. Xuan Song in SUSTech and Prof. Zipei Fan at the University of Tokyo. What's more, I received a B.E. degree in the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications in 2020.
+bio: I am currently a PhD student in IR LAB, the University of Amsterdam, work with **Porf. Evangelos Kanoulas**. Before that, I got my master degree at Southern University of Science and Technology, Department of Computer Science and Engineering, SUSTech-UTokyo Joint Research Center on Super Smart City Lab, where I am supervised by Prof. Xuan Song in SUSTech and Prof. Zipei Fan at the University of Tokyo. What's more, I received a B.E. degree in the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications in 2020.
 
 # Interests to show in About widget
 interests:
@@ -113,9 +113,12 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a PhD student in IR LAB, the University of Amsterdam, work with Porf. Evangelos Kanoulas. 
 
-Before that, I got my master degree at Southern University of Science and Technology, Department of Computer Science and Engineering, SUSTech-UTokyo Joint Research Center on Super Smart City Lab, where I am supervised by Prof. Xuan Song in SUSTech and Prof. Zipei Fan at the University of Tokyo. 
+[//]: # (I am currently a PhD student in IR LAB, the University of Amsterdam, work with Porf. Evangelos Kanoulas. )
 
-What's more, I received a B.E. degree in the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications in 2020.
+[//]: # ()
+[//]: # (Before that, I got my master degree at Southern University of Science and Technology, Department of Computer Science and Engineering, SUSTech-UTokyo Joint Research Center on Super Smart City Lab, where I am supervised by Prof. Xuan Song in SUSTech and Prof. Zipei Fan at the University of Tokyo. )
+
+[//]: # ()
+[//]: # (What's more, I received a B.E. degree in the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications in 2020.)
 {style="text-align: justify;"}
