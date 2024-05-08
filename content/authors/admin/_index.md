@@ -29,9 +29,10 @@ bio: I am currently a PhD student in IR LAB, the University of Amsterdam, work w
 
 # Interests to show in About widget
 interests:
-  - Information Retrieval & Robustness & Adversarial Attack
-  - Heterogeneous Graph Neural Network & Data Science
-  - Spatio-temporal Data & Human Mobility Mining
+  - Information Retrieval 
+  - Graph Neural Network 
+  - Spatio-temporal Data  Science
+  - Robustness AI
 
 # Education to show in About widget
 education:
@@ -114,11 +115,11 @@ social:
 highlight_name: true
 ---
 
-[//]: # (I am currently a PhD student in IR LAB, the University of Amsterdam, work with Porf. Evangelos Kanoulas. )
+I am currently a PhD student in [IR LAB](https://irlab.science.uva.nl/), the University of Amsterdam, work with [Porf. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and [Dr.Panagiotis Eustratiadis](https://scholar.google.com/citations?user=lj5XzYUAAAAJ&hl=en). 
 
-[//]: # ()
-[//]: # (Before that, I got my master degree at Southern University of Science and Technology, Department of Computer Science and Engineering, SUSTech-UTokyo Joint Research Center on Super Smart City Lab, where I am supervised by Prof. Xuan Song in SUSTech and Prof. Zipei Fan at the University of Tokyo. )
+Before that, I got my master degree at Southern University of Science and Technology(SUSTech), Department of Computer Science and Engineering, SUSTech-UTokyo Joint Research Center on Super Smart City Lab, where I am supervised by [Prof. Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN) in SUSTech and [Prof. Zipei Fan](https://scholar.google.com/citations?user=OMny2bEAAAAJ&hl=zh-CN) at the University of Tokyo. 
 
-[//]: # ()
-[//]: # (What's more, I received a B.E. degree in the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications in 2020.)
+What's more, I received a B.E. degree in the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications(BUPT) in 2020.
+
+I have previously interned at Huawei and Pinduoduo, and I have also worked at TEMU.
 {style="text-align: justify;"}
