@@ -2,16 +2,16 @@
 title: "MTMGNN: Multi-time multi-graph neural network for metro passenger flow prediction"
 authors:
 - admin
-date: "25 April 2022"
+date: "2022-04"
 doi: "10.1007/s10707-022-00466-1"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "25 April 2022"
+publishDate: "2022-04"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["Journal article"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
