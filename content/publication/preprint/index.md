@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "MTMGNN: Multi-time multi-graph neural network for metro passenger flow prediction"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+date: "25 April 2022"
+doi: "10.1007/s10707-022-00466-1"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "25 April 2022"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,7 +17,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The passenger flow prediction of the public metro system is a core and critical part of the intelligent transportation system, and is essential for traffic management, metro planning, and emergency safety measures. Most methods chose the recent segment from historical data as input to predict the future traffic flow; however, this would lead to the loss of the inherent characteristic information of the metro passenger flow’s daily morning and evening peak. Therefore, this study aggregates the recent-term and long-term information and use a long-term Gated Convolutional Neural Network (Gated CNN) to extract the temporal feature from the complex historical data. On the other hand, typical models did not consider the different spatial dependencies between different metro stations; this work proposes various adjacent relationships to characterize the degree of association between nodes. In order to extract spatial and temporal features at the same time, the historical data of recent-term and long-term is merged together to extract spatial features through a multi-graph neural network module. By combining Gated CNN and multi-graph module, we propose a multi-time multi-graph neural network named MTMGNN for metro passenger flow prediction. The result of our experiment on real-world datasets shows that our model MTMGNN is better than all state-of-art methods.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -29,19 +29,19 @@ featured: false
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: https://link.springer.com/article/10.1007/s10707-022-00466-1
+url_code: 'https://github.com/lixus7/MTMGNN2'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Unsplash**](https://link.springer.com/article/10.1007/s10707-022-00466-1/figures/3)'
   focal_point: ""
   preview_only: false
 
