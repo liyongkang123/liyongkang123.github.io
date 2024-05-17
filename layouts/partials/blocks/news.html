@@ -1,13 +1,37 @@
+<!--<div class="news-container">-->
+<!--    <div class="news-header">-->
+<!--        <h1>News</h1>-->
+<!--    </div>-->
+<!--    <div class="news-list">-->
+<!--        {{ range first 10 (where .Site.RegularPages "Type" "news") }}-->
+<!--        <div class="news-item">-->
+<!--            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>-->
+<!--            <p>{{ .Summary }}</p>-->
+<!--        </div>-->
+<!--        {{ end }}-->
+<!--    </div>-->
+<!--</div>-->
+
 <div class="news-container">
     <div class="news-header">
         <h1>News</h1>
     </div>
     <div class="news-list">
-        {{ range first 10 (where .Site.RegularPages "Type" "news") }}
-        <div class="news-item">
-            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-            <p>{{ .Summary }}</p>
-        </div>
+        {{ if .Site.RegularPages }}
+          {{ $newsPages := where .Site.RegularPages "Type" "news" }}
+          {{ if $newsPages }}
+            {{ range $newsPages }}
+              <div class="news-item">
+                <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                <p>{{ .Summary }}</p>
+              </div>
+            {{ end }}
+          {{ else }}
+            <p>No news articles found.</p>
+          {{ end }}
+        {{ else }}
+          <p>The site has no regular pages.</p>
         {{ end }}
+
     </div>
 </div>
