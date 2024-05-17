@@ -1,4 +1,4 @@
 ---
-title: "News Title Here"
-date: 2024-05-01
+title: "[2024/03/13] One co-authored abstract got accepted by ECIR2024, see you in Glasgow."
+date: 2024-03-13
 ---
