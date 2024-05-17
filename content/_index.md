@@ -88,7 +88,7 @@ sections:
   - block: experience
     id: experience
     content:
-      title: Experience
+      title: Industrial Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -117,7 +117,7 @@ sections:
           location: Shanghai
           date_start: '2022-07-01'
           date_end: '2022-09-23'
-          description: Internship
+          description: Internship in the R&D department
     design:
       columns: '2'
 #  - block: accomplishments
