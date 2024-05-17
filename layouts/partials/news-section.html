@@ -1,0 +1,13 @@
+<div class="news-container">
+    <div class="news-title">
+        <h1>News</h1>
+    </div>
+    <div class="news-list">
+        {{ range first 10 (where .Site.RegularPages "Type" "news") }}
+        <div class="news-item">
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <p>{{ .Summary }}</p>
+        </div>
+        {{ end }}
+    </div>
+</div>
