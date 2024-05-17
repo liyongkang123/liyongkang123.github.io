@@ -43,14 +43,14 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       
-  - block: news
-    content:
-      title: News
-      text: '<link rel="stylesheet" href="assets/ccs/style.css">'
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '2'
+#  - block: news
+#    content:
+#      title: News
+#      text: '<link rel="stylesheet" href="assets/ccs/style.css">'
+#      # Choose a user to display skills from (a folder name within `content/authors/`)
+#      username: admin
+#    design:
+#      columns: '2'
   
 
 #  - block: news
@@ -70,7 +70,8 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+#          - post
+          - news
         author: ""
         category: ""
         tag: ""
