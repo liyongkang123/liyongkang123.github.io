@@ -72,21 +72,21 @@ sections:
         folders:
 #          - post
           - news
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
+#        author: ""
+#        category: ""
+#        tag: ""
+#        exclude_featured: false
+#        exclude_future: false
+#        exclude_past: false
+#        publication_type: ""
       # Choose how many pages you would like to offset by
-      offset: 5
+      offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
       # Choose a layout view
       view: compact
-      columns: '2'
+      columns: '1'
       
   - block: collection
     id: publications
