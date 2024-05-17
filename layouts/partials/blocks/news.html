@@ -1,20 +1,14 @@
 <div class="news-container">
-    <div class="news-title">
+    <div class="news-header">
         <h1>News</h1>
     </div>
     <div class="news-list">
-<!--        {{ if .Site.RegularPages }}-->
-<!--          {{ range first 10 (where .Site.RegularPages "Type" "news") }}-->
-<!--          <div class="news-item">-->
-<!--              <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>-->
-<!--              <p>{{ .Summary }}</p>-->
-<!--          </div>-->
-<!--          {{ end }}-->
-          {{ range first 10 (where .Site.RegularPages "Type" "news") }}
-          <div class="news-item">
-              <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-              <p>{{ .Summary }}</p>
-          </div>
+        {{ range first 10 (where .Site.RegularPages "Type" "news" "ByDate" "desc") }}
+        <div class="news-item">
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <p>{{ .Summary }}</p>
+        </div>
         {{ end }}
     </div>
 </div>
+
