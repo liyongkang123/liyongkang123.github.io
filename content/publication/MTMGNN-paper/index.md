@@ -1,7 +1,9 @@
 ---
 title: "MTMGNN: Multi-time multi-graph neural network for metro passenger flow prediction"
 authors:
-- Du Yin, Renhe Jiang, Jiewen Deng, Yongkang Li, Yi Xie, Zhongyi Wang, Yifan Zhou, Xuan Song, Jedi S Shang
+- Du Yin, Renhe Jiang, Jiewen Deng
+- admin
+- Yi Xie, Zhongyi Wang, Yifan Zhou, Xuan Song, Jedi S Shang
 date: "2022-04-01T00:00:00Z"
 doi: "10.1007/s10707-022-00466-1"
 
@@ -34,7 +36,7 @@ url_code: 'https://github.com/lixus7/MTMGNN2'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-url_slides: '#'
+#url_slides: '#'
 #url_source: '#'
 #url_video: '#'
 
