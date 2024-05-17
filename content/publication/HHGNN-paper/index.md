@@ -3,6 +3,12 @@ title: "Heterogeneous hypergraph neural network for friend recommendation with h
 authors:
 - admin
 - Zipei Fan, Jixiao Zhang, Dengheng Shi, Tianqi Xu, Du Yin, Jinliang Deng, Xuan Song
+
+# Author notes (optional)
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
+
 date: "2022-10-17T00:00:00Z"
 doi: "10.1145/3511808.3557609"
 
