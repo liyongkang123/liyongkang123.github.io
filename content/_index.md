@@ -63,8 +63,8 @@ sections:
     id: posts
     content:
       title: Recent News
-#      subtitle: ''
-#      text: ''
+      subtitle: ''
+      text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
       # Filter on criteria
