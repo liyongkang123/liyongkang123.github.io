@@ -27,14 +27,14 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
+#- name: Custom Link
+#  url: http://example.org
 url_pdf: https://link.springer.com/article/10.1007/s10707-022-00466-1
 url_code: 'https://github.com/lixus7/MTMGNN2'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-#url_slides: ''
+url_slides: ''
 #url_source: '#'
 #url_video: '#'
 
