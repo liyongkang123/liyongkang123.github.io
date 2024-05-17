@@ -192,22 +192,22 @@ sections:
       view: citation
       
 
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-      
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+#  - block: collection
+#    id: talks
+#    content:
+#      title: Recent & Upcoming Talks
+#      filters:
+#        folders:
+#          - event
+#    design:
+#      columns: '2'
+#      view: compact
+#      
+#  - block: tag_cloud
+#    content:
+#      title: Popular Topics
+#    design:
+#      columns: '2'
       
   - block: portfolio
     id: projects
@@ -236,13 +236,13 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-#  - block: markdown
-#    content:
-#      title: Gallery
-#      subtitle: ''
-#      text: |-
-#        {{< gallery album="demo" >}}
-#    design:
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
 #      columns: '1'
 
       
