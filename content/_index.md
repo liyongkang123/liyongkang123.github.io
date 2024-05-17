@@ -52,11 +52,11 @@ sections:
 #      columns: '1'
   
 
-#  - block: news
-#    id: news
-#    content:
-#      title: News
-#      text: 'I got a paper in ECIR2024'
+  - block: news
+    id: news
+    content:
+      title: News
+      text: '【2023.10】I got a paper in ECIR2024'
   
   - block: collection
     id: posts
