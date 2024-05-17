@@ -3,7 +3,7 @@
         <h1>News</h1>
     </div>
     <div class="news-list">
-        {{ range first 10 (where .Site.RegularPages "Type" "news" "ByDate" "desc") }}
+        {{ range first 10 (where .Site.RegularPages "Type" "news") }}
         <div class="news-item">
             <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
             <p>{{ .Summary }}</p>
@@ -11,4 +11,3 @@
         {{ end }}
     </div>
 </div>
-
