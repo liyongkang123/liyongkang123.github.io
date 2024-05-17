@@ -42,14 +42,15 @@ sections:
       title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-#  - block: skills
-#    content:
-#      title: Skills
-#      text: ''
-#      # Choose a user to display skills from (a folder name within `content/authors/`)
-#      username: admin
-#    design:
-#      columns: '1'
+      
+  - block: news
+    content:
+      title: News
+      text: '<link rel="stylesheet" href="assets/ccs/style.css">'
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   
 
 #  - block: news
@@ -214,7 +215,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Teaching
       filters:
         folders:
           - project
