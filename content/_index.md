@@ -57,6 +57,7 @@ sections:
 #    content:
 #      title: News
 #      text: 'I got a paper in ECIR2024'
+  
   - block: collection
     id: posts
     content:
