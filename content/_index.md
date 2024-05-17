@@ -70,8 +70,8 @@ sections:
       # Filter on criteria
       filters:
         folders:
-#          - post
-          - news
+          - post
+#          - news
         author: ""
         category: ""
         tag: ""
