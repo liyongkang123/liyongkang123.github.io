@@ -307,4 +307,7 @@ sections:
       title: Visit History
       text: |-
         {{< custom-js >}}
+    design:
+      columns: '2'
+      view: compact
 ---
