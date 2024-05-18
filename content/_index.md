@@ -300,4 +300,11 @@ sections:
 #          captcha: false
     design:
       columns: '2'
+
+  - block: visit
+    id: visit
+    content:
+      title: Visit History
+      text: |-
+        {{< custom-js >}}
 ---
