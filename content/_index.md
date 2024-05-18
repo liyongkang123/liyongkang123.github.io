@@ -306,8 +306,7 @@ sections:
     id: visit
     content:
       title: Visit History
-      text: |-
-        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=LA8izlbI2SKeH2R2FmOT0t9XsW0Nsn8t_7pltsEPY8Q"></script>
+      text: ''
     design:
       columns: '2'
       view: compact
