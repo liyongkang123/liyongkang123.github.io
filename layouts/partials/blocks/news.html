@@ -12,26 +12,42 @@
 <!--    </div>-->
 <!--</div>-->
 
-<div class="news-container">
-    <div class="news-header">
-        <h1>News</h1>
-    </div>
-    <div class="news-list">
-        {{ if .Site.RegularPages }}
-          {{ $newsPages := where .Site.RegularPages "Type" "news" }}
-          {{ if $newsPages }}
-            {{ range $newsPages }}
-              <div class="news-item">
-                <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-                <p>{{ .Summary }}</p>
-              </div>
-            {{ end }}
-          {{ else }}
-            <p>No news articles found.</p>
-          {{ end }}
-        {{ else }}
-          <p>The site has no regular pages.</p>
-        {{ end }}
+<!--<div class="news-container">-->
+<!--    <div class="news-header">-->
+<!--        <h1>News</h1>-->
+<!--    </div>-->
+<!--    <div class="news-list">-->
+<!--        {{ if .Site.RegularPages }}-->
+<!--          {{ $newsPages := where .Site.RegularPages "Type" "news" }}-->
+<!--          {{ if $newsPages }}-->
+<!--            {{ range $newsPages }}-->
+<!--              <div class="news-item">-->
+<!--                <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>-->
+<!--                <p>{{ .Summary }}</p>-->
+<!--              </div>-->
+<!--            {{ end }}-->
+<!--          {{ else }}-->
+<!--            <p>No news articles found.</p>-->
+<!--          {{ end }}-->
+<!--        {{ else }}-->
+<!--          <p>The site has no regular pages.</p>-->
+<!--        {{ end }}-->
 
-    </div>
-</div>
+<!--    </div>-->
+<!--</div>-->
+
+<h2>News</h2>
+        <li>[2024/03/13]  One co-authored abstract got accepted by ECIR2024, see you in Glasgow.
+    <li>[2023/09/28]  <b>Congratulations to myself on successfully being a PhD student. A new life start.</b>
+    <li>[2023/09/14]  Goodbye Pinduoduo and Temu, I have officially left～
+<li>[2023/07/11]  I joined Temu in Pinduoduo as a Machine Learning Algorithm Engineer.
+<li>[2023/06/30]  <b>Congratulations to myself on successfully earning a master's degree. I have graduated.</b>
+<li>[2022/11/29]  One Chinese invention patent has been issued.
+    <li>[2022/08/02]  One paper has been accepted by CIKM 2022.
+<li>[2022/07/31]  One paper has been accepted by WWWJ.
+  <li>[2022/07/26]  One Chinese invention patent has been issued.
+<li>[2022/07/01]  I am doing a summer deep learning internship at <a href="https://en.wikipedia.org/wiki/Pinduoduo" target="_blank">Pinduoduo</a>.
+ <li>[2022/04/05]  One paper has been accepted by Geoinformatica.
+  <li>[2022/03/08]  One Chinese invention patent has been issued.
+</li>
+    </li>

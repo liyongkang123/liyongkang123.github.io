@@ -53,11 +53,15 @@ sections:
 #      columns: '2'
   
 
-#  - block: news
-#    id: news
-#    content:
-#      title: News
-#      text: '【2023.10】I got a paper in ECIR2024'
+  - block: news
+    id: news
+    content:
+      title: News
+      text: ''
+    design:
+      columns: '2'
+      view: compact
+      
   
   - block: collection
     id: posts
