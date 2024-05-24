@@ -32,7 +32,7 @@ interests:
   - Information Retrieval 
   - Graph Neural Network 
   - Spatio-temporal Data  Science
-  - Robustness AI
+  - Robust AI
 
 # Education to show in About widget
 education:
@@ -115,7 +115,7 @@ social:
 highlight_name: true
 ---
 
-I am currently a PhD student in [IR LAB](https://irlab.science.uva.nl/), the University of Amsterdam, work with [Porf. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and [Dr. Panagiotis Eustratiadis](https://scholar.google.com/citations?user=lj5XzYUAAAAJ&hl=en). 
+I am currently a PhD student at the [IR LAB](https://irlab.science.uva.nl/), the University of Amsterdam, work with [Porf. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and [Dr. Panagiotis Eustratiadis](https://scholar.google.com/citations?user=lj5XzYUAAAAJ&hl=en). 
 
 Before that, I got my master degree at Southern University of Science and Technology(SUSTech), Department of Computer Science and Engineering, SUSTech-UTokyo Joint Research Center on Super Smart City Lab, where I am supervised by [Prof. Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN) in SUSTech and [Prof. Zipei Fan](https://scholar.google.com/citations?user=OMny2bEAAAAJ&hl=zh-CN) at the University of Tokyo. 
 
