@@ -25,7 +25,7 @@ organizations:
     url: https://irlab.science.uva.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a PhD student in IR LAB, the University of Amsterdam, work with Porf. Evangelos Kanoulas. Before that, I got my master degree at Southern University of Science and Technology, Department of Computer Science and Engineering, SUSTech-UTokyo Joint Research Center on Super Smart City Lab, where I am supervised by Prof. Xuan Song in SUSTech and Prof. Zipei Fan at the University of Tokyo. What's more, I received a B.E. degree in the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications in 2020.
+bio: I am currently a PhD student in IR LAB, the University of Amsterdam, work with Prof. Evangelos Kanoulas. Before that, I got my master degree at Southern University of Science and Technology, Department of Computer Science and Engineering, SUSTech-UTokyo Joint Research Center on Super Smart City Lab, where I am supervised by Prof. Xuan Song in SUSTech and Prof. Zipei Fan at the University of Tokyo. What's more, I received a B.E. degree in the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications in 2020.
 
 # Interests to show in About widget
 interests:
@@ -115,7 +115,7 @@ social:
 highlight_name: true
 ---
 
-I am currently a PhD student at the [IR LAB](https://irlab.science.uva.nl/), the University of Amsterdam, work with [Porf. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and [Dr. Panagiotis Eustratiadis](https://scholar.google.com/citations?user=lj5XzYUAAAAJ&hl=en). 
+I am currently a PhD student at the [IR LAB](https://irlab.science.uva.nl/), the University of Amsterdam, work with [Prof. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and [Dr. Panagiotis Eustratiadis](https://scholar.google.com/citations?user=lj5XzYUAAAAJ&hl=en). 
 
 Before that, I got my master degree at Southern University of Science and Technology(SUSTech), Department of Computer Science and Engineering, SUSTech-UTokyo Joint Research Center on Super Smart City Lab, where I am supervised by [Prof. Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN) in SUSTech and [Prof. Zipei Fan](https://scholar.google.com/citations?user=OMny2bEAAAAJ&hl=zh-CN) at the University of Tokyo. 
 
