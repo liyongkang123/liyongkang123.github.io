@@ -30,7 +30,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://link.springer.com/article/10.1007/s11280-024-01279-y#citeas
+url_pdf: https://link.springer.com/article/10.1007/s11280-024-01279-y
 url_code: 'https://github.com/aeroplanepaper/HKG'
 #url_dataset: '#'
 #url_poster: '#'
