@@ -121,5 +121,5 @@ Before that, I got my master degree at Southern University of Science and Techno
 
 What's more, I received a B.E. degree in the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications(BUPT) in 2020.
 
-I have previously interned at Huawei and Pinduoduo, and I have also worked at TEMU.
+I have previously interned at Pinduoduo, and I have also worked at TEMU.
 {style="text-align: justify;"}
