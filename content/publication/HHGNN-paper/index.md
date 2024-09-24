@@ -15,6 +15,8 @@ doi: "10.1145/3511808.3557609"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-17T00:00:00Z"
 
+track: Short paper
+
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
