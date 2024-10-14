@@ -29,10 +29,10 @@ bio: I am currently a PhD student in IR LAB, the University of Amsterdam, workin
 
 # Interests to show in About widget
 interests:
+  - Robust AI
   - Information Retrieval 
   - Graph Neural Network 
   - Spatio-temporal Data  Science
-  - Robust AI
 
 # Education to show in About widget
 education:
