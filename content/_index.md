@@ -228,11 +228,11 @@ sections:
 #      columns: '2'
 #      view: compact
 
-  - block: collection
+  - block: teaching
     id: teaching
     content:
       title: Teaching
-      text: ''
+      text: 'Teaching Assistant'
     design:
       columns: '2'
       view: compact
