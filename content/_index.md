@@ -215,6 +215,26 @@ sections:
 #    design:
 #      columns: '1'
 
+#  - block: collection
+#    id: teaching
+#    content:
+#      title: Teaching
+#      filters:
+#        folders:
+#          - teaching
+#    design:
+#      columns: '2'
+#      view: compact
+
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching
+      text: ''
+    design:
+      columns: '2'
+      view: compact
+      
       
   - block: contact
     id: contact
