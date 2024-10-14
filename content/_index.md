@@ -234,10 +234,6 @@ sections:
       title: Teaching
       subtitle: Teaching Assistant
       text: 'Teaching Assistant'
-      filters:
-        folders:
-          - teaching
-        exclude_featured: true
     design:
       columns: '2'
       view: List
