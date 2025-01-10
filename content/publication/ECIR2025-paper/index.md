@@ -37,7 +37,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: 
+url_pdf: 'https://arxiv.org/abs/2501.04802'
 url_code: 'https://github.com/liyongkang123/hotflip_corpus_poisoning'
 #url_dataset: '#'
 #url_poster: '#'
