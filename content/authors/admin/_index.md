@@ -122,4 +122,7 @@ Previously, I earned my master’s degree at Southern University of Science and 
 Additionally, I received my B.E. degree from the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications(BUPT), in 2020.
 
 I have also interned at Pinduoduo and worked at TEMU.
+
+I am the reivewer of the following conferences and journals:
+TKDE, TBD, TNNLS, IPM, TMC, ECIR.
 {style="text-align: justify;"}
