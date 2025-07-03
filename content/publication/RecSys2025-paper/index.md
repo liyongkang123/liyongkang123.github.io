@@ -7,8 +7,8 @@ authors:
 - Karsten	Langerak, Serghei	Mihailov
 
 # Author notes (optional)
-#author_notes:
-#  - 'Equal contribution'
+author_notes:
+  - 'Equal contribution'
 #  - 'Equal contribution'
 
 date: "2025-06-05T00:00:00Z"
