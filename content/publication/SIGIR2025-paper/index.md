@@ -37,8 +37,8 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/abs/2504.17884'
+url_code: 'https://github.com/liyongkang123/unsupervised_corpus_poisoning'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
