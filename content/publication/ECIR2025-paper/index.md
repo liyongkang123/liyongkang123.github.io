@@ -1,6 +1,5 @@
 ---
-#title: "Reproducing HotFlip for Corpus Poisoning Attacks in Dense Retrieval"
-title: "Rethinking the Privacy of Text Embeddings: A Reproducibility Study of “Text Embeddings Reveal (Almost) As Much As Text”"
+title: "Reproducing HotFlip for Corpus Poisoning Attacks in Dense Retrieval"
 
 authors:
 - admin
