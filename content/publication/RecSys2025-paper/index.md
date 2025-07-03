@@ -11,11 +11,11 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: "2025-07-04T00:00:00Z"
-doi: "" 
+date: "2024-12-19T00:00:00Z"
+doi: "10.1007/978-3-031-88717-8_8" 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-07-04T00:00:00Z"
+publishDate: "2024-12-19T00:00:00Z"
 
 track: Reproducibility paper
 
@@ -25,8 +25,8 @@ track: Reproducibility paper
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The ACM Conference on Recommender Systems (RecSys 2025)"
-publication_short: "ECIR2025( Reproducibility Paper, Oral)"
+publication: "The 47th European Conference on Information Retrieval"
+publication_short: "**ECIR2025([BEST Reproducibility Paper](/images/ECIR2025_Best_Paper.jpg), Oral)**"
 
 abstract: HotFlip is a topical gradient-based word substitution method for attacking language models. Recently, this method has been further applied to attack retrieval systems by generating malicious passages that are injected into a corpus, i.e., corpus poisoning. However, HotFlip is known to be computationally inefficient, with the majority of time being spent on gradient accumulation for each query-passage pair during the adversarial token generation phase, making it impossible to generate an adequate number of adversarial passages in a reasonable amount of time. Moreover, the attack method itself assumes access to a set of user queries, a strong assumption that does not correspond to how real-world adversarial attacks are usually performed. In this paper, we first significantly boost the efficiency of HotFlip, reducing the adversarial generation process from 4 hours per document to only 15 minutes, using the same hardware. We further contribute experiments and analysis on two additional tasks, (1) transfer-based black-box attacks, and (2) query-agnostic attacks. Whenever possible, we provide comparisons between the original method and our improved version. Our experiments demonstrate that HotFlip can effectively attack a variety of dense retrievers, with an observed trend that its attack performance diminishes against more advanced and recent methods. Interestingly, we observe that while HotFlip performs poorly in a black-box setting, indicating limited capacity for generalization, in query-agnostic scenarios its performance is correlated to the volume of injected adversarial passages.
 # Summary. An optional shortened abstract.
