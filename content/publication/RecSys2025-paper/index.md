@@ -1,10 +1,11 @@
 ---
 title: "Rethinking the Privacy of Text Embeddings: A Reproducibility Study of “Text Embeddings Reveal (Almost) As Much As Text”"
 authors:
-- Dominykas	Seputis*
-- admin*(Equal contribution,Corresponding author)
+- Dominykas	Seputis
+- admin
 - Karsten	Langerak, Serghei	Mihailov
 
+#*(Equal contribution,Corresponding author)
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
