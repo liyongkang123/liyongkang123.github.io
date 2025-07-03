@@ -1,5 +1,7 @@
 ---
-title: "Reproducing HotFlip for Corpus Poisoning Attacks in Dense Retrieval"
+#title: "Reproducing HotFlip for Corpus Poisoning Attacks in Dense Retrieval"
+title: "Rethinking the Privacy of Text Embeddings: A Reproducibility Study of “Text Embeddings Reveal (Almost) As Much As Text”"
+
 authors:
 - admin
 - Panagiotis Eustratiadis, Evangelos Kanoulas
