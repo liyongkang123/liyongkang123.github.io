@@ -12,7 +12,7 @@ author_notes:
   - 'Equal contribution, Corresponding author'
 
 date: "2025-06-05T00:00:00Z"
-doi: "" 
+doi: "10.1145/3705328.3748155" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-06-05T00:00:00Z"
@@ -39,8 +39,8 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/abs/2507.07700'
+url_code: 'https://github.com/dqmis/vec2text-repro'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
