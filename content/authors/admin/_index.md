@@ -115,7 +115,7 @@ social:
 highlight_name: true
 ---
 
-I am currently a second year PhD student at the [IR LAB](https://irlab.science.uva.nl/), the University of Amsterdam, working with [Prof. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and [Dr. Panagiotis Eustratiadis](https://scholar.google.com/citations?user=lj5XzYUAAAAJ&hl=en). 
+I am currently a second year PhD student at the [IR LAB](https://irlab.science.uva.nl/), the University of Amsterdam, working with [Prof. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and [Dr. Panagiotis Eustratiadis](https://scholar.google.com/citations?user=lj5XzYUAAAAJ&hl=en). My interests lie in the robust embedding-based knowledge retrieval systems and recommender systems.
 
 Previously, I earned my master’s degree at Southern University of Science and Technology(SUSTech), Department of Computer Science and Engineering, SUSTech-UTokyo Joint Research Center on Super Smart City Lab, where I am supervised by [Prof. Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN) in SUSTech and [Prof. Zipei Fan](https://scholar.google.com/citations?user=OMny2bEAAAAJ&hl=zh-CN) at the University of Tokyo. 
 
