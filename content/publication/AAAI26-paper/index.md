@@ -9,11 +9,11 @@ authors:
 # Author notes (optional)
  
 
-date: "2025-11-05T00:00:00Z"
+date: "2026-01-10T00:00:00Z"
 doi: " " 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-11-05T00:00:00Z"
+publishDate: "2026-01-10T00:00:00Z"
 
 track: Full paper
 
@@ -24,7 +24,7 @@ publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)"
-publication_short: "**AAAI2022(Full Paper, Poster)**"
+publication_short: "**AAAI2026(Full Paper, Poster)**"
 
 abstract: Among the diverse services provided by Location-Based Social Networks (LBSNs), Next Point-of-Interest (POI) recommendation plays a crucial role in inferring user preferences from historical check-in trajectories. However, existing sequential and graph-based methods frequently neglect significant mobility variations across distinct contextual scenarios (e.g., tourists versus locals). This oversight results in suboptimal performance due to two fundamental limitations, the inability to capture scenario-specific features and the failure to resolve inherent inter-scenario conflicts. To overcome these limitations, we propose the Multifaceted Scenario-Aware Hypergraph Learning method (MSAHG), a framework that adopts a scenario-splitting paradigm for next POI recommendation. Our main contributions are, (1) Construction of scenario-specific, multi-view disentangled sub-hypergraphs to capture distinct mobility patterns; (2) A parameter-splitting mechanism to adaptively resolve conflicting optimization directions across scenarios while preserving generalization capability. Extensive experiments on three real-world datasets demonstrate that MSAHG consistently outperforms five state-of-the-art methods across diverse scenarios, confirming its effectiveness in multi-scenario POI recommendation.
 # Summary. An optional shortened abstract.
