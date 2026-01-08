@@ -83,18 +83,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Machine Learning Algorithm Engineer
-          company: TEMU
-          company_url: ''
-          company_logo: temu
-          location: Shanghai
-          date_start: '2023-07-11'
-          date_end: '2023-09-14'
-          description: |2-
-              Contract, Responsibilities include:
-              * Analysing
-              * Modelling
-              * Deploying
+#        - title: Machine Learning Algorithm Engineer
+#          company: TEMU
+#          company_url: ''
+#          company_logo: temu
+#          location: Shanghai
+#          date_start: '2023-07-11'
+#          date_end: '2023-09-14'
+#          description: |2-
+#              Contract, Responsibilities include:
+#              * Analysing
+#              * Modelling
+#              * Deploying
         - title: Machine Learning Internship
           company: Pinduoduo
           company_url: ''
