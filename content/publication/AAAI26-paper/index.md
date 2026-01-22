@@ -37,7 +37,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: ' '
+url_pdf: 'https://www.arxiv.org/abs/2601.11610'
 url_code: 'https://github.com/COCOMiss/MSAHG'
 #url_dataset: '#'
 #url_poster: '#'
