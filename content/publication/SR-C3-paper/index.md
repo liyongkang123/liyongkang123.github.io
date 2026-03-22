@@ -10,7 +10,7 @@ authors:
  
 
 date: "2026-03-10T00:00:00Z"
-doi: " " 
+doi: "10.1016/j.eswa.2026.132138" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-03-16T00:00:00Z"
@@ -37,7 +37,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: ' '
+url_pdf: 'https://doi.org/10.1016/j.eswa.2026.132138'
 url_code: ''
 #url_dataset: '#'
 #url_poster: '#'
