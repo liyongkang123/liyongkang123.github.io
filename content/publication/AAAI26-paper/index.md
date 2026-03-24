@@ -10,7 +10,7 @@ authors:
  
 
 date: "2025-11-10T00:00:00Z"
-doi: " " 
+doi: "https://doi.org/10.1609/aaai.v40i18.38552" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-11-10T00:00:00Z"
