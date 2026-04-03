@@ -4,7 +4,9 @@ title: "Lost in Decoding? Reproducing and Stress-Testing the Look-Ahead Prior in
 authors:
 - Kidist Amde Mekonnen
 - admin
-- Yubao Tang, Simon Lupart, Maarten de Rijke
+- Yubao Tang
+- Simon Lupart
+- Maarten de Rijke
 
 # Author notes (optional)
 author_notes:
@@ -12,7 +14,7 @@ author_notes:
   - 'Equal contribution'
 
 date: "2026-04-03T00:00:00Z"
-doi: " " 
+doi: "" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-04-03T00:00:00Z"
