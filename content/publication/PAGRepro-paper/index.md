@@ -14,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 
 date: "2026-04-03T00:00:00Z"
-doi: "" 
+doi: "https://doi.org/10.1145/3805712.3808567" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-04-03T00:00:00Z"
@@ -41,8 +41,8 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/abs/2604.23396'
+url_code: 'https://github.com/kidist-amde/lost-in-decoding'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''

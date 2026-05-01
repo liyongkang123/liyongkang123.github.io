@@ -11,10 +11,10 @@ authors:
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Equal contribution, Corresponding author'
 
 date: "2026-04-03T00:00:00Z"
-doi: "" 
+doi: "https://doi.org/10.1145/3805712.3808549" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-04-03T00:00:00Z"
@@ -41,8 +41,8 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: ''
-url_code: ''
+url_pdf: 'http://arxiv.org/abs/2604.27037'
+url_code: 'https://github.com/arneeichholtz/Hypencoder-reprod'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
