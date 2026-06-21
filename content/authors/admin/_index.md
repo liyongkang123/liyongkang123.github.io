@@ -124,5 +124,5 @@ Additionally, I received my B.E. degree from the School of Information and Commu
 I have also interned at Pinduoduo and worked at TEMU.
 
 I am the reivewer of the following conferences and journals:
-TKDE, TBD, TNNLS, IPM, TMC, ECIR.
+SIGIR, TKDE, ECIR, TBD, TNNLS, IPM, TMC.
 {style="text-align: justify;"}
