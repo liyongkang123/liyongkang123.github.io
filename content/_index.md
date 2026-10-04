@@ -95,6 +95,15 @@ sections:
 #              * Analysing
 #              * Modelling
 #              * Deploying
+        - title: Applied Scientist Internship
+          company: Amazon
+          company_url: ''
+          company_logo: amazon
+          location: London
+          date_start: '2026-09-28'
+          date_end: Now
+          description: Internship in the Rufus Science Team
+
         - title: Machine Learning Internship
           company: Pinduoduo
           company_url: ''
