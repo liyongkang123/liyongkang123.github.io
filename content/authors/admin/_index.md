@@ -123,6 +123,6 @@ Additionally, I received my B.E. degree from the School of Information and Commu
 
 I have also interned at Pinduoduo and worked at TEMU.
 
-I am the reivewer of the following conferences and journals:
-SIGIR, TKDE, ECIR, TBD, TNNLS, IPM, TMC.
+I am the reviewer of the following conferences and journals:
+SIGIR, WWW, ARR, TKDE, ECIR, TBD, TNNLS, IPM, TMC.
 {style="text-align: justify;"}
