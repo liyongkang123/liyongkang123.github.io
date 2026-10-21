@@ -34,7 +34,7 @@ abstract: Scientific figures encode key experimental evidence and domain knowled
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 #- name: Custom Link

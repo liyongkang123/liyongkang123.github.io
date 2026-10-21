@@ -32,7 +32,7 @@ abstract: This paper concerns corpus poisoning attacks in dense information retr
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 #- name: Custom Link

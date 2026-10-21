@@ -32,7 +32,7 @@ abstract: Friend recommendation is an important real-world application in locati
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 #- name: Custom Link

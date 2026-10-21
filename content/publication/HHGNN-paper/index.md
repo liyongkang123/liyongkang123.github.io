@@ -32,7 +32,7 @@ abstract: Friend recommendation from human mobility is a vital real-world applic
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 #- name: Custom Link

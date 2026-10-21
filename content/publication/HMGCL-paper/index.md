@@ -24,7 +24,7 @@ abstract: Friend recommendation from user trajectory is a vital real-world appli
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 #- name: Custom Link

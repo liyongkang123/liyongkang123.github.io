@@ -33,7 +33,7 @@ abstract: Dimensionality reduction is critical for deploying dense retrieval sys
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 #- name: Custom Link

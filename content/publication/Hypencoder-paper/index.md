@@ -36,7 +36,7 @@ abstract: The Hypencoder, proposed by Killingback et al. (SIGIR 2025), is a retr
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 #- name: Custom Link

@@ -4,7 +4,7 @@ title: "Rethinking the Privacy of Text Embeddings: A Reproducibility Study of â€
 authors:
 - Dominykas Seputis
 - admin
-- Karsten	Langerak, Serghei	Mihailov
+- Karsten Langerak, Serghei Mihailov
 
 # Author notes (optional)
 author_notes:
@@ -34,7 +34,7 @@ abstract: Text embeddings are fundamental to many natural language processing~(N
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 #- name: Custom Link

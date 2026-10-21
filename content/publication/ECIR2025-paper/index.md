@@ -33,7 +33,7 @@ abstract: HotFlip is a topical gradient-based word substitution method for attac
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 #- name: Custom Link
