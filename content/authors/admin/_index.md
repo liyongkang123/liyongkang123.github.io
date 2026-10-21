@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://irlab.science.uva.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a PhD student in IR LAB, the University of Amsterdam, working with Prof. Evangelos Kanoulas. Before that, I got my master degree at Southern University of Science and Technology, Department of Computer Science and Engineering, SUSTech-UTokyo Joint Research Center on Super Smart City Lab, where I am supervised by Prof. Xuan Song in SUSTech and Prof. Zipei Fan at the University of Tokyo. What's more, I received a B.E. degree in the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications in 2020.
+bio: I am currently a PhD candidate in IR LAB, the University of Amsterdam, working with Prof. Evangelos Kanoulas. Before that, I got my master degree at Southern University of Science and Technology, Department of Computer Science and Engineering, SUSTech-UTokyo Joint Research Center on Super Smart City Lab, where I am supervised by Prof. Xuan Song in SUSTech and Prof. Zipei Fan at the University of Tokyo. What's more, I received a B.E. degree in the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications in 2020.
 
 # Interests to show in About widget
 interests:
