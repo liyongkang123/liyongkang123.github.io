@@ -124,8 +124,8 @@ I am currently a last year [ELLIS Academic Track](https://ellis.eu/student/2025-
 
 <!-- I have also interned at Pinduoduo and worked at TEMU. -->
 
-My research focuses on making embedding-based retrieval more robust and efficient, including work on adversarial attacks and embedding compression. My broader interests include recommender systems and retrieval-augmented generation (RAG).
-I’m currently an Applied Scientist Intern at Amazon and have previously interned at Temu. I enjoy connecting academic research with practical challenges in search, recommendation, and LLM-powered applications.
+My research focuses on **making embedding-based retrieval more robust and efficient**, including work on adversarial attacks and embedding compression. My broader interests include recommender systems and retrieval-augmented generation (RAG).
+Alongside my PhD studies, I’m currently an Applied Scientist Intern at Amazon and I previously worked at Temu. I enjoy connecting academic research with practical challenges in search, recommendation, and LLM-powered applications.
 
 I am the reviewer of the following conferences and journals: SIGIR, WWW, EMNLP, TKDE, ECIR, TBD, TNNLS, IPM, TMC.
 {style="text-align: justify;"}
