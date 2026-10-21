@@ -29,10 +29,10 @@ bio: I am currently a PhD student in IR LAB, the University of Amsterdam, workin
 
 # Interests to show in About widget
 interests:
-  - Robust AI
-  - Information Retrieval 
+  - Information Retrieval
+  - Natural Language Processing
+  - Recommender System
   - Graph Neural Network 
-  - Spatio-temporal Data  Science
 
 # Education to show in About widget
 education:
@@ -115,14 +115,17 @@ social:
 highlight_name: true
 ---
 
-I am currently a third year [ELLIS Academic Track](https://ellis.eu/student/2025-yongkang-li) PhD student at the [IR LAB](https://irlab.science.uva.nl/), the University of Amsterdam. I am working with [Prof. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/), [Prof. Emine Yilmaz](https://sites.google.com/site/emineyilmaz/) and [Dr. Panagiotis Eustratiadis](https://scholar.google.com/citations?user=lj5XzYUAAAAJ&hl=en). My interests lie in the robust embedding-based knowledge retrieval systems and recommender systems.
+I am currently a last year [ELLIS Academic Track](https://ellis.eu/student/2025-yongkang-li) PhD student at the [IR LAB](https://irlab.science.uva.nl/), the University of Amsterdam. I am working with [Prof. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/), [Prof. Emine Yilmaz](https://sites.google.com/site/emineyilmaz/) and [Dr. Panagiotis Eustratiadis](https://scholar.google.com/citations?user=lj5XzYUAAAAJ&hl=en). 
+<!-- My interests lie in the robust embedding-based knowledge retrieval systems and recommender systems. -->
 
-Previously, I earned my master’s degree at Southern University of Science and Technology(SUSTech), Department of Computer Science and Engineering, SUSTech-UTokyo Joint Research Center on Super Smart City Lab, where I am supervised by [Prof. Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN) in SUSTech and [Prof. Zipei Fan](https://scholar.google.com/citations?user=OMny2bEAAAAJ&hl=zh-CN) at the University of Tokyo. 
+<!-- Previously, I earned my master’s degree at Southern University of Science and Technology(SUSTech), Department of Computer Science and Engineering, SUSTech-UTokyo Joint Research Center on Super Smart City Lab, where I am supervised by [Prof. Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN) in SUSTech and [Prof. Zipei Fan](https://scholar.google.com/citations?user=OMny2bEAAAAJ&hl=zh-CN) at the University of Tokyo.  -->
 
-Additionally, I received my B.E. degree from the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications(BUPT), in 2020.
+<!-- Additionally, I received my B.E. degree from the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications(BUPT), in 2020. -->
 
-I have also interned at Pinduoduo and worked at TEMU.
+<!-- I have also interned at Pinduoduo and worked at TEMU. -->
 
-I am the reviewer of the following conferences and journals:
-SIGIR, WWW, ARR, TKDE, ECIR, TBD, TNNLS, IPM, TMC.
+My research focuses on making embedding-based retrieval more robust and efficient, including work on adversarial attacks and embedding compression. My broader interests include recommender systems and retrieval-augmented generation (RAG).
+I’m currently an Applied Scientist Intern at Amazon and have previously interned at Temu. I enjoy connecting academic research with practical challenges in search, recommendation, and LLM-powered applications.
+
+I am the reviewer of the following conferences and journals: SIGIR, WWW, EMNLP, TKDE, ECIR, TBD, TNNLS, IPM, TMC.
 {style="text-align: justify;"}

@@ -102,16 +102,16 @@ sections:
           location: London
           date_start: '2026-09-28'
           date_end: ''
-          description: Internship in the Rufus Science Team
+          description: Developing personalized shopping pages for Alexa for Shopping, with tailored product information and comparisons. Researching retrieval-based methods to reduce LLM generation latency.
 
-        - title: Machine Learning Internship
-          company: Pinduoduo
+        - title: Machine Learning Engineer 
+          company: TEMU
           company_url: ''
-          company_logo: pingduoduo
+          company_logo: temu
           location: Shanghai
-          date_start: '2022-07-01'
-          date_end: '2022-09-23'
-          description: Internship in the R&D department
+          date_start: '2023-07-01'
+          date_end: '2023-09-23'
+          description: Developed an automated customer intent classification and analytics system to identify real-time user requests (e.g., returns, refunds, and shipping inquiries) during e-commerce customer service interactions. Engineered a hybrid model integrating deep learning architectures with traditional feature-matching techniques, fusing cleaned multi-turn dialogue data, customer purchase history, and real-time order status. Deployed the pipeline to accelerate agent response times and provide actionable statistical insights for cross-departmental business analysis.
     design:
       columns: '2'
 #  - block: accomplishments
