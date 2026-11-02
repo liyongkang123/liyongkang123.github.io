@@ -39,7 +39,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-#url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3848000.3850195'
+url_pdf: 'uploads/SIGIR_AP26_Context_Aware_Figure_Captioning_Enhances_Scientific_Multi_Modal_RAG__Camera_ready.pdf'
 url_code: 'https://github.com/dli1/multimodalrag'
 #url_dataset: '#'
 #url_poster: '#'
