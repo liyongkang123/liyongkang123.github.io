@@ -1,0 +1,19 @@
+/* 针对大屏显示器（≥1200px），放宽页面最大宽度，提升屏幕利用效率 */
+@media (min-width: 1200px) {
+  .container,
+  .container-lg,
+  .container-xl,
+  .container-xxl {
+    max-width: 1400px;
+  }
+}
+
+/* 针对 2K 及超宽屏显示器（≥1400px）进一步放宽 */
+@media (min-width: 1400px) {
+  .container,
+  .container-lg,
+  .container-xl,
+  .container-xxl {
+    max-width: 1600px;
+  }
+}
